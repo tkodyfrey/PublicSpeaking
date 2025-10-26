@@ -45,7 +45,7 @@ self-contained: true
 
 # Personal Journey
 
-## Clemson
+## Clemson {.smaller}
 
 ::::: columns
 ::: {.column width="60%"}
@@ -59,7 +59,7 @@ self-contained: true
 :::
 :::::
 
-## Illinois State
+## Illinois State {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
