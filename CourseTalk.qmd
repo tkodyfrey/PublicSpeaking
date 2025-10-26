@@ -1,0 +1,345 @@
+---
+title: "No One 'Lives' On the Front Porch"
+subtitle: "Public Speaking as a New Foundation for Communication "
+author: "Dr. T. Kody Frey"
+institute: "Associate Professor | University of Kentucky | School of Information Science" 
+format: 
+  revealjs:
+    theme: [night]
+    slide-number: true
+    preview-links: auto
+    footer: <tkfr222@uky.edu> | [@TKFrey](https://twitter.com/TKFrey) | [tkodyfrey.github.io](https://tkodyfrey.github.io)
+    scrollable: true
+    transition: fade
+    navigation-mode: vertical
+    fig-cap-location: bottom
+editor: visual
+self-contained: true
+---
+
+## About Me
+
+::::: columns
+::: {.column width="60%"}
+-   Born in Gastonia, NC
+-   Attended Clemson (BA), Illinois State (MA), and Kentucky (PhD)
+-   Avid Reader (Science Fiction, LitRPG, Memoirs)
+-   Super Liverpool FC supporter
+-   Amateur Chef (@Frey_cooks)
+-   **Owe my marriage, career, and family to public speaking**
+:::
+
+::: {.column width="40%"}
+![](images/Kody.jpeg){fig-align="center"}
+:::
+:::::
+
+## Talk Outline {.smaller}
+
+1.  Personal Journey
+2.  Historical Overview
+3.  Teaching Philosophy
+4.  Course Philosophy
+5.  Course Vision
+6.  Leadership / Administrative Philosophy
+
+# Personal Journey
+
+## Clemson
+
+::::: columns
+::: {.column width="60%"}
+-   Undecided major
+-   Took Public Speaking Fall of First Year with Dr. Cheryl Lossie \>\>\>\>
+-   Applied to be a Comm Major immediately after
+:::
+
+::: {.column width="40%"}
+![](images/CL.jpg){fig-align="center"}
+:::
+:::::
+
+## Illinois State
+
+::::: columns
+::: {.column width="50%"}
+-   Trained by Drs. Cheri Simonds and John Hooker
+-   Learned how to turn course assessment into a research agenda
+-   Learned to be a tireless advocate for public speaking at an institutional level
+:::
+
+::: {.column width="50%"}
+![](images/ISU.jpg){fig-align="center"}
+:::
+:::::
+
+## Kentucky {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+-   Taught 6 different versions of the public speaking course
+-   Developed a technical communication course for STEM students
+-   Developed a public speaking course that meets the UK CORE quantitative foundations requirement.
+-   Developed some cynicism of course purpose
+:::
+
+::: {.column width="50%"}
+![](images/JM.jpg){fig-align="center"}
+:::
+:::::
+
+# Historical Overview
+
+## The Influence of Speech Communication {.smaller}
+
+-   The basic course ... is perhaps the original and most enduring pedagogical element in the communication discipline (Valenzano et al., 2014)
+-   National Council of Teachers of English (NCTE) -\> National Association of Academic Teachers of Public Speaking (NAATPS) -\> National Communication Association (NCA)
+-   Research concerning oral performance, bodily gestures, and imitation of great speakers began to take on the agenda of a social science discipline
+    -   Led to the rise of empirically oriented communication programs
+
+## Critiquing Speech {.smaller}
+
+-   The legacy of speech communication leaves communication uniquely qualified to improve speaking skills across the total educational landscape
+-   However, the study of speech is not sufficiently rooted in the theoretical traditions of the modern discipline
+    -   Communication as a field is far more complex - theoretically and methodologically - than what is taught in traditional speech classes
+
+## The 'Basic' Course as the Front Porch {.smaller}
+
+-   Beebe (2008) referred to the 'basic' course as the "front porch," welcoming new students to the Communication discipline
+-   The front porch creates a good first impression, but ultimately looks nothing like what you’ll find inside (the theoretical depth of the discipline)
+-   Seen as too skills-focused and lacking the theory that defines the broader field
+-   Public speaking scholars are sometimes relegated to the margins, as no one "lives" on the porch
+
+## Public Speaking as a Foundation {.smaller}
+
+-   Can we rethink the public speaking course as the foundation of the house? 
+    -   It is strong, stable, and holds everything up
+-   Public speaking as an area of practice belongs to everyone.
+-   By teaching the theory behind why students take certain actions and value certain ways of speaking (in addition to skills), the public speaking course can directly support the "house"
+
+# Teaching Philosophy
+
+## Core Belief
+
+*The classroom is not an isolated context.*
+
+The lessons, ideas, and opinions shared during instruction are not confined to these spaces but are reflections of a larger society that shapes one’s lived experiences
+
+## Reflection {.smaller}
+
+-   Rooted in Bandura's Social Cognitive Theory (SCT)
+-   Students use extensive reflection to internalize content relative to their own perspectives, beliefs, and values
+-   Manifests as opportunities to lead discussions, share thoughts, free write about lessons, self-reflect, or express viewpoints
+-   The instructor has a responsibility to facilitate this reflection
+
+## Flexibility {.smaller}
+
+-   Instructors must remain flexible in their practice
+-   Involves giving students voice to adapt pedagogy appropriately
+-   Determine effective methods for teaching via:
+    -   Instructor-student relationships
+    -   Sound assessments that produce appropriate feedback
+    -   Pedagogical content knowledge that stems from research and practice
+
+## Clarity {.smaller}
+
+-   Clarity is the foundational principle that enables student learning
+-   Clarity must encompass *content* and *procedure*
+    -   Content: pedagogy should intentionally and deliberately reduce uncertainty about what students will learn and how they will be assessed
+    -   Procedure: instructors must balance authority and rapport by having rules and policies in place that (1) create conditions suitable for learning and (2) establish a standard for treating students fairly
+
+## Holistic Student Support {.smaller}
+
+-   I believe in *Humans first, Students second*
+-   How can we show all students that they are valued? How can we promote fairness for all students?
+    -   Use sound communication behaviors to create safe spaces and climates.
+    -   Consider accessibility of all course materials
+    -   Incorporate a diverse selection of content (e.g., textbooks, podcasts, videos)
+
+# Course Philosophy
+
+Principles of a Successful Public Speaking Course
+
+## Ongoing Assessment {.smaller}
+
+-   Must understand *constituents* vs *constraints*
+-   Ongoing assessment allows us to showcase course performance and target areas for intervention
+    -   Assessment can also be an important research endeavor
+-   Assessment also leads to enhanced advocacy
+
+## Clarity {.smaller}
+
+-   Multiple sections with multiple instructors requires clarity in both content and procedure
+-   Want instructors to have freedom to decide day to day endeavors
+    -   Need consistency to conduct proper assessment
+    -   Need consistency to deal with problems effectively
+-   Enough clarity so all instructors are prepared to teach content and all students are prepared to learn
+
+## Uncertainty Reduction {.smaller}
+
+::::: columns
+::: {.column width="40%"}
+-   Should rely on concrete *Models of Expected Performance*
+-   The models exemplify sound criteria so students know what to expect
+-   Can train students to identify desired behaviors
+:::
+
+::: {.column width="60%"}
+![](images/Canvas.png){fig-align="center"}
+:::
+::::
+
+## Socialization {.smaller}
+
+-   Success is a community endeavor
+-   Everyone should work for each other, not necessarily for the director
+    -   Strong community will enhance course buy-in
+-   The community, as well as the class, should be a positive climate
+-   How do we stay connected to each other but remain respectful of time as well?
+
+## Feedback {.smaller}
+
+::::: columns
+::: {.column width="40%"}
+-   Assessment needs to be based in sound criteria
+-   Feedback should facilitate skill development
+-   Rubrics should be comprehensive
+-   Students should be trained how to use them
+:::
+
+::: {.column width="60%"}
+![](images/Rubric.png){fig-align="center"}
+:::
+::::
+
+# Course Vision
+
+Making sure students prefer what we do
+
+## A Disciplinary Foundation
+
+::: {.r-fit-text}
+Goal is to show that communication goes beyond oration while still meeting course objectives
+
+1.  Better incorporate data and analysis in speech development (speaking as an applied endeavor)
+2.  Better integration of various theoretical lenses
+3.  Focused speech topics on interpersonal, intercultural, organizational, or health messaging
+4.  Ground technique in theory and not just as tips for success
+5.  Partner across the field to show that communication is vast
+6.  Speech Mechanics -> Speech Ethics (How do norms reflect power structures?)
+7.  Others?
+:::
+
+## World Class Teacher Training {.smaller}
+
+-   I believe we should:
+    -   Prepare good teachers at all levels
+    -   Make skill development ongoing
+
+::: panel-tabset
+### Instructional Discussion
+
+-   A specific teaching strategy characterized by high student interaction, the use of students' personal experience, and higher order questioning
+-   Less interested in what we say as instructors and more in helping students reach logical conclusions
+-   Includes planning, facilitating, and evaluating
+
+### Experiential Activities
+
+-   There should be a structure to the activities we use in our classes
+-   Experience, Describe, Infer, Transfer (EDIT)
+
+### Ongoing PD
+
+-   We want all instructors to be the best versions of themselves
+-   Professional development should be the responsibility of everyone
+-   Envision various opportunities for everyone involved to share their knowledge through professional development series
+:::
+
+## Public Speaking Center / TOPS Expansion {.smaller}
+
+-   Expand Center so it is designed to meet needs of everyone on campus
+-   Ensure that those who use Center see communication as beyond public speaking
+-   An expansion would be:
+    -   Rooted in communication research
+    -   Based in a consulting relationship where we determine how to best help
+    -   Use assessment data to determine how to address needs
+    
+Nyquist, J. D., Wulff, D. H., & Abbott, R. D. (1989). The interface between communication and instruction: Communication foundations for a university instructional development center. *Communication Education*, *38*, 377-386. https://doi.org/10.1080/03634528909378779
+
+## Relentless Advocacy
+
+-   Given that others want to teach public speaking, we need solidify ourselves as its champion
+    -   Who else is more qualified?
+    -   See Basic Communication Course Annual Volume 18
+-   Ongoing assessment allows us to showcase how well our students are doing and retain enrollment
+-   Sustained representation on Volunteer Core
+-   Promotion of course on local, state, and national level
+
+
+## Procedural Clarity
+
+-   Instructors must understand what to do when they encounter problems
+-   I believe there should be a systematic process for a variety of circumstances
+    -   If plagiarism is suspected, instructors should...
+    -   If GenAI is being used inappropriately, instructors should...
+    -   If a student is misbehaving, instructors should...
+
+## Generative AI
+
+::: {.r-fit-text}
+"*The University embraces the use of AI as a powerful tool for the purpose of enhancing human learning, creativity, analysis, and innovation within the academic context.*"
+
+-   Gen AI needs to be embraced in responsible and ethical ways
+-   The communication course is site for development and learning and not for jeopardizing academic success
+    -   Students cannot fail trying
+-   We can uniquely teach students how to use it responsibly in the context of building speeches
+:::
+
+# Leadership / Administrative Philosophy
+
+## Capability for Self Reflection {.smaller}
+
+Every good leader needs to possess a capability for self-reflection; they should be able to reflect on their successes and failures in order to grow, adapt, and meet the needs of their followers
+
+## Situational Leadership {.smaller}
+
+-   Requires one to intimately know and assess their followers
+-   A good leader needs to be aware of these situations so that they may intervene, guide, or coach followers appropriately
+-   I can be available frequently or not at all, depending on one's needs
+
+## Followership {.smaller}
+
+-   Leadership is co-created with followers
+-   Effective leaders are grounded in the relationships and connections they have with those they seek to influence
+-   We can build self-concept and buy-in by giving everyone a voice
+
+## Charismatic Leadership {.smaller}
+
+-   Leadership is a performance that requires charisma to motivate followers
+-   I strongly believe in: 
+    -   my personal approach public speaking pedagogy
+    -   identifying models of expected performance
+    -   managing the classroom
+    -   addressing challenge behaviors
+    -   providing high-quality feedback
+-   Charismatic leaders sell their vision to followers, but they also need to articulate that vision to those within the university who seek to constrain what they create
+
+------------------------------------------------------------------------
+
+![](Images/Freys.jpg){fig-align="center"}
+
+## Thank You! {.smaller}
+
+|     |
+|-----|
+|     |
+
+**T. Kody Frey, Ph.D.**
+
+| Gifford Blyton Professor in Oral Communication and Forensics
+| Associate Professor
+| School of Information Science
+| College of Communication and Information
+| University of Kentucky
+
+317 Little Library, 160 Patterson Drive, Lexington, KY 40506-0224
