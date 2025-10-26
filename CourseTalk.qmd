@@ -17,6 +17,8 @@ editor: visual
 self-contained: true
 ---
 
+BIG UP BAGWAN
+
 ## About Me
 
 ::::: columns
