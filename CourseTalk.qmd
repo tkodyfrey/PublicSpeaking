@@ -266,7 +266,7 @@ Goal is to show that communication goes beyond oration while still meeting cours
     
 Nyquist, J. D., Wulff, D. H., & Abbott, R. D. (1989). The interface between communication and instruction: Communication foundations for a university instructional development center. *Communication Education*, *38*, 377-386. https://doi.org/10.1080/03634528909378779
 
-## Relentless Advocacy
+## Relentless Advocacy {.smaller}
 
 -   Given that others want to teach public speaking, we need solidify ourselves as its champion
     -   Who else is more qualified?
@@ -276,7 +276,7 @@ Nyquist, J. D., Wulff, D. H., & Abbott, R. D. (1989). The interface between comm
 -   Promotion of course on local, state, and national level
 
 
-## Procedural Clarity
+## Procedural Clarity {.smaller}
 
 -   Instructors must understand what to do when they encounter problems
 -   I believe there should be a systematic process for a variety of circumstances
@@ -294,6 +294,17 @@ Nyquist, J. D., Wulff, D. H., & Abbott, R. D. (1989). The interface between comm
     -   Students cannot fail trying
 -   We can uniquely teach students how to use it responsibly in the context of building speeches
 :::
+
+::: notes
+Expanding focus of course to benefit specific needs (e.g., technical communication)
+Community partnerships / service learning
+Textbooks
+Haven't even mentioned business class yet
+Virtual Reality and new technologies
+:::
+
+
+
 
 # Leadership / Administrative Philosophy
 
