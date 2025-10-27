@@ -36,12 +36,20 @@ self-contained: true
 
 ## Talk Outline {.smaller}
 
+::::: columns
+::: {.column width="60%"}
 1.  Personal Journey
 2.  Historical Overview
 3.  Teaching Philosophy
 4.  Course Philosophy
 5.  Course Vision
 6.  Leadership / Administrative Philosophy
+:::
+
+::: {.column width="40%"}
+![](images/Petey.jpeg){fig-align="center"}
+:::
+::::
 
 # Personal Journey
 
